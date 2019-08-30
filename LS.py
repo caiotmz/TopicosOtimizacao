@@ -50,6 +50,10 @@ def localsearchswap1(sol,best):
 	for i in range(n):
 		neigh = sol.copy()
 		neigh[i], neigh[i+1] = neigh[i+1], neigh[i]
+		if i == 0:
+			neigh[n] = neigh[0]
+		if i == n-1:
+			neigh[0] = neigh[n]
 		x = calcdist(neigh)
 		if x < min_dist:
 			best_sol = neigh.copy()
