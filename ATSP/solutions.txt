@@ -1,0 +1,42 @@
+Instância: br17.atsp
+Solução ótima: 39
+Solução encontrada: 39
+Iterações: 25
+Tempo de execução: 0.12990522384643555
+
+Instância: ft53.atsp
+Solução ótima: 6905
+Solução encontrada: 6905
+Iterações: 19
+Tempo de execução: 0.595876932144165
+
+Instância: ft70.atsp
+Solução ótima: 38673
+Solução encontrada: 38673
+Iterações: 14
+Tempo de execução: 0.6515002250671387
+
+Instância: ftv33.atsp
+Solução ótima: 1286
+Solução encontrada: 1286
+Iterações: 12
+Tempo de execução: 0.24790143966674805
+
+Instância: ftv35.atsp
+Solução ótima: 1473
+Solução encontrada: 1473
+Iterações: 23
+Tempo de execução: 0.5588619709014893
+
+Instância: ftv170.atsp
+Solução ótima: 2755
+Solução encontrada: 2755
+Iterações: 61
+Tempo de execução: 32.85668706893921
+
+Instância: kro124p.atsp
+Solução ótima: 36230
+Solução encontrada: 36230
+Iterações: 46
+Tempo de execução: 10.523613691329956
+
